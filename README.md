@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TOHIDATASHRAY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in test new protocol
+- 🌱 I’m currently learning code writing
 - 💞️ I’m looking to collaborate on Layerzero lab & Zksync era
 - 📫 How to reach me: tohid.atashray@gmail.com
 
